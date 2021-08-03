@@ -11,7 +11,7 @@ In the words of Linus Torvalds:
 
 # Installation
 
----
+
 First **clone** or **download** this project:
 ```
 $ https://github.com/alirezamzh/calculator-with-Tkinter.git
@@ -37,7 +37,7 @@ Want to contribute? Great!
 send me a email:
 alireza.memarzade.atr@gmail.com
 
----
+
 ## License
 
 MIT
